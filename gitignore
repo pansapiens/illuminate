@@ -1,0 +1,14 @@
+
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+*.egg-info
+tmp
+ve/
+dist/
+*.egg-info
+build/
+data/
+sampledata/incomplete-runs/
+dump/
